@@ -17,8 +17,8 @@
         🎓 <strong>Currently pursuing:</strong> B.Tech in CSE<br>
         💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br>
         🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br>
-        💡 <strong>Passionate about:</strong> Problem solving, clean code, and innovative solutions<br>
-        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
+        💡 <strong>Passionate about:</strong> Problem solving, AI Systems, System Design<br>
+        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
       </td>
     </tr>
   </table>
@@ -52,12 +52,11 @@
 
 ## <span style="color: #1DB584;">🎯 Currently Working On</span>
 
-- 🔐 **[Encrypti V](https://github.com/codiphile/encrypti-v)** - Advanced encryption platform for secure data protection
-- 🤖 **[BlackIce OS](https://github.com/codiphile/blackice-os)** - AI-powered operating system with intelligent automation  
-- 🛡️ **[Project AURA](https://github.com/codiphile/project-aura)** - Smart PDF redaction tool for personal information privacy
+- 🔐 **Encrypti V** - Advanced encryption platform for secure data protection
+- 🤖 **BlackIce OS** - AI-powered operating system with intelligent automation  
+- 🛡️ **Project AURA** - Smart PDF redaction tool for personal information privacy
 - 📚 Preparing for technical interviews and placements
 - 🧠 Solving data structures and algorithms problems daily
-
 ---
 
 ## 📈 Coding Activity
