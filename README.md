@@ -76,12 +76,11 @@
 [![Mudit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codiphile&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-## <span style="color: #1DB584;">🐍 Snake Eating My Contributions</span>
-
-<div align="center">
-  <img src="https://github.com/codiphile/codiphile/blob/output/github-contribution-grid-snake.svg" alt="Snake 1" />
-  <img src="https://github.com/codiphile/codiphile/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake 2" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🤝 Let's Connect!
 
