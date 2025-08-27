@@ -13,7 +13,6 @@
       <td width="50%" align="left">
         <h2>🚀 Full Stack Developer | CSE Student</h2>
         <p>Welcome to my GitHub profile! I'm a pre-final year Computer Science student passionate about building scalable web applications and exploring cutting-edge technologies.</p>
-        <br>
         <h3>👨‍💻 About Me</h3>
         🎓 <strong>Currently pursuing:</strong> B.Tech in CSE<br>
         💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br>
