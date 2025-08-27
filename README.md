@@ -11,7 +11,7 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
       </td>
       <td width="50%" align="left">
-        <h2>🚀 Full Stack Developer | CSE Student</h2>
+        <h2>🚀 Full Stack Developer | Computer Science Student</h2>
         <p>Welcome to my GitHub profile! I'm a pre-final year Computer Science student passionate about building scalable web applications and exploring cutting-edge technologies.</p>
         <br>
         <h3>👨‍💻 About Me</h3>
@@ -19,13 +19,11 @@
         💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br><br>
         🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br><br>
         💡 <strong>Passionate about:</strong> Problem solving, clean code, and innovative solutions<br><br>
-        📫 <strong>How to reach me:</strong> <a href="mailto:YOUR_EMAIL">Your Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
+        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
       </td>
     </tr>
   </table>
 </div>
-
----
 
 ---
 
@@ -37,37 +35,29 @@
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=codiphile&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiphile&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=codiphile&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## <span style="color: #1DB584;">🎯 Currently Working On</span>
 
-- 🔭 Building full-stack applications with modern technologies
-- 🌟 Contributing to open-source projects
+- 🔐 **[Encrypti V](https://github.com/codiphile/encrypti-v)** - Advanced encryption platform for secure data protection
+- 🤖 **[BlackIce OS](https://github.com/codiphile/blackice-os)** - AI-powered operating system with intelligent automation  
+- 🛡️ **[Project AURA](https://github.com/codiphile/project-aura)** - Smart PDF redaction tool for personal information privacy
 - 📚 Preparing for technical interviews and placements
 - 🧠 Solving data structures and algorithms problems daily
-
----
-
-## 🏆 Achievements & Highlights
-
-- 💻 Built multiple full-stack applications using MERN/PERN stack
-- 🤖 Implemented machine learning models for real-world problems
-- 📈 Consistent problem solver on competitive programming platforms
-- 🎯 Focused on writing clean, maintainable, and scalable code
 
 ---
 
@@ -75,7 +65,6 @@
 
 [![Mudit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codiphile&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
@@ -88,10 +77,10 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://codiphile.me">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mudits798@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_TWITTER_URL">
