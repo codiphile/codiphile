@@ -11,15 +11,15 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
       </td>
       <td width="50%" align="left">
-        <h2>🚀 Full Stack Developer | Computer Science Student</h2>
+        <h2>🚀 Full Stack Developer | CSE Student</h2>
         <p>Welcome to my GitHub profile! I'm a pre-final year Computer Science student passionate about building scalable web applications and exploring cutting-edge technologies.</p>
         <br>
         <h3>👨‍💻 About Me</h3>
-        🎓 <strong>Currently pursuing:</strong> B.Tech in Computer Science Engineering<br><br>
-        💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br><br>
-        🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br><br>
-        💡 <strong>Passionate about:</strong> Problem solving, clean code, and innovative solutions<br><br>
-        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Your Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
+        🎓 <strong>Currently pursuing:</strong> B.Tech in CSE<br>
+        💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br>
+        🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br>
+        💡 <strong>Passionate about:</strong> Problem solving, clean code, and innovative solutions<br>
+        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
       </td>
     </tr>
   </table>
