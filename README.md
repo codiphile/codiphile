@@ -19,7 +19,7 @@
         💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br><br>
         🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br><br>
         💡 <strong>Passionate about:</strong> Problem solving, clean code, and innovative solutions<br><br>
-        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
+        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Your Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn Profile</a>
       </td>
     </tr>
   </table>
