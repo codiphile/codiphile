@@ -62,13 +62,16 @@
 ## 📈 Coding Activity
 
 [![Mudit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codiphile&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
 </picture>
-[![An image of @codiphile's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codiphile)](https://holopin.io/@codiphile)
+<div align="center">
+  <a href="https://holopin.io/@codiphile">
+    <img src="https://holopin.me/codiphile" alt="Holopin Badge Board">
+  </a>
+</div>
 
 ## 🤝 Let's Connect!
 
