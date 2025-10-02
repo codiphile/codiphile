@@ -18,7 +18,7 @@
         💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br>
         🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br>
         💡 <strong>Passionate about:</strong> Problem solving, AI Systems, System Design<br>
-        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+        📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mudit-sharma-269a2b248/">LinkedIn</a>
       </td>
     </tr>
   </table>
@@ -95,7 +95,7 @@
 
 <div align="center">
   
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "I'm not a great programmer; I'm just a good programmer with great habits."— Kent Beck
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
