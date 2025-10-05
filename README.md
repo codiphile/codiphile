@@ -15,7 +15,6 @@
         <p>Welcome to my GitHub profile! I'm a pre-final year Computer Science student passionate about building scalable web applications and exploring cutting-edge technologies.</p>
         <h3>👨‍💻 About Me</h3>
         🎓 <strong>Currently pursuing:</strong> B.Tech in CSE<br>
-        💼 <strong>Seeking:</strong> Full Stack Developer opportunities<br>
         🌱 <strong>Learning:</strong> Advanced system design and cloud architecture<br>
         💡 <strong>Passionate about:</strong> Problem solving, AI Systems, System Design<br>
         📫 <strong>How to reach me:</strong> <a href="mailto:mudits798@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mudit-sharma-269a2b248/">LinkedIn</a>
