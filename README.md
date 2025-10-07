@@ -52,9 +52,8 @@
 ## <span style="color: #1DB584;">🎯 Currently Working On</span>
 
 - 🔐 **Encrypti V** - Advanced encryption platform for secure data protection
-- 🤖 **BlackIce OS** - AI-powered operating system with intelligent automation  
-- 🛡️ **Project AURA** - Smart PDF redaction tool for personal information privacy
-- 📚 Preparing for technical interviews and placements
+- 🤖 **SENTRIX** - A Complete Security Ecosystem   
+- 🛡️ **PlayWise** - Your Own AI DJ on the go... 
 - 🧠 Solving data structures and algorithms problems daily
 ---
 
