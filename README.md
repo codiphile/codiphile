@@ -51,10 +51,10 @@
 
 ## <span style="color: #1DB584;">🎯 Currently Working On</span>
 
-- 🔐 **Encrypti V** - Advanced encryption platform for secure data protection
-- 🤖 **SENTRIX** - A Complete Security Ecosystem   
-- 🛡️ **PlayWise** - Your Own AI DJ on the go... 
-- 🧠 Solving data structures and algorithms problems daily
+- **Encrypti V** - Advanced encryption platform for secure data protection
+- **SENTRIX** - A Complete Security Ecosystem   
+- **Open Source Projects** 
+- Solving **data structures and algorithms** problems daily
 ---
 
 ## 📈 Coding Activity
