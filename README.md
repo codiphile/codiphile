@@ -67,8 +67,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph-dark.svg">
 </picture>
-## Hacktoberfest'25
 
+## Hacktoberfest'25
 <div align="center">
   <a href="https://holopin.io/@codiphile">
     <img src="https://holopin.me/codiphile" alt="Holopin Badge Board">
