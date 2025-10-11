@@ -68,7 +68,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codiphile/codiphile/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-## Hactoberfest'25
+## Hacktoberfest'25
 
 <div align="center">
   <a href="https://holopin.io/@codiphile">
