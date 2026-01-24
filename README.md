@@ -42,9 +42,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=codiphile&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiphile&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
-      
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=codiphile&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codiphile&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
     </tr>
   </table>
 </div>
